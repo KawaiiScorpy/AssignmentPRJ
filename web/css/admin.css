@@ -1,0 +1,8 @@
+input[type="text"], select {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input:read-only{
+    border: 1px solid #ccc;
+  border-radius: 4px;
+}
